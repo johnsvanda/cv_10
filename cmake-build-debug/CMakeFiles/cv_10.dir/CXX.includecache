@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/svandaj/Desktop/School/PTN/zdrojaky/cv_10/main.cpp
+iostream
+-
+fstream
+-
+ctime
+-
+cstdlib
+-
+

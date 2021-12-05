@@ -1,0 +1,3 @@
+C:/Users/svandaj/Desktop/School/PTN/zdrojaky/cv_10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/svandaj/Desktop/School/PTN/zdrojaky/cv_10/cmake-build-debug/CMakeFiles/cv_10.dir
+C:/Users/svandaj/Desktop/School/PTN/zdrojaky/cv_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
